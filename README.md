@@ -1,1 +1,2 @@
-# Digital-Concept-Tutorial
+# Computer Parts
+#### By: Tripp Horsey
