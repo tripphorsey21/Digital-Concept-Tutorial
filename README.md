@@ -12,3 +12,5 @@
 #### [RAM](https://en.wikipedia.org/wiki/Random-access_memory) (Random-access Memory)
 #### [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) (Graphics Processing Unit)
 #### [Data Storage](https://en.wikipedia.org/wiki/Computer_data_storage)
+#### [BIOS](https://en.wikipedia.org/wiki/BIOS) (Basic Input/Output System)
+#### [USB](https://en.wikipedia.org/wiki/USB) (Universal Serial Bus)
