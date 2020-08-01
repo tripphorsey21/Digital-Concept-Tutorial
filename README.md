@@ -7,9 +7,8 @@
 
 #### Click any of the following parts to learn more about them:
 
-#### Motherboard - 
-#### CPU - 
-#### RAM - 
-#### Storage Device - 
-#### GPU - 
-#### Cooling Solution - 
+#### [Motherboard](https://en.wikipedia.org/wiki/Motherboard) 
+#### [CPU](https://en.wikipedia.org/wiki/Central_processing_unit) (Central Processing Unit)
+#### [RAM](https://en.wikipedia.org/wiki/Random-access_memory) (Random-access Memory)
+#### [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) (Graphics Processing Unit)
+#### [Data Storage](https://en.wikipedia.org/wiki/Computer_data_storage)
